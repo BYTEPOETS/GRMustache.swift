@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 	s.name     = 'GRMustache.swift'
 	s.version  = '2.0.1'
 	s.license  = { :type => 'MIT', :file => 'LICENSE' }
-	s.summary  = 'Flexible Mustache templates for Swift.'
+	s.summary  = 'Flexible Mustache templates for Swift 4.'
 	s.homepage = 'https://github.com/groue/GRMustache.swift'
 	s.author   = { 'Gwendal Roué' => 'gr@pierlis.com' }
 	s.source   = { :git => 'https://github.com/groue/GRMustache.swift.git', :tag => s.version }
